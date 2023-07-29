@@ -1,0 +1,10 @@
+eht_keygen
+eht_siggen
+eht_sigparse
+eht_print_pk
+eht_print_sk
+eht_hash
+eht_verify
+sigs
+*.pk
+*.sk
